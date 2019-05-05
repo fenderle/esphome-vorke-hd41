@@ -6,6 +6,10 @@ over RS232 exposed features which include:
 * Switching of the Audio EDID settings (Auto, 2.0, 5.1, 7.1, ARC)
 * Detection if a device is connected to a specific port (Input 1 to 4 and Output)
 
+**DISCLAIMER: These modifications might break your device! Follow them on your own
+risk and only if you know what you are doing! I am not responsible if you render
+your device unusable!**
+
 ## Motivation
 I wanted to be able to control the HDMI switch through HomeAssistant in a reliable
 way. Before coming up with this solution I used a IR blaster which required additional
