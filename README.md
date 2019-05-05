@@ -99,7 +99,7 @@ The switches report back their _real_ settings, not their _assumed_ states. So i
 is switched at the devices front panel switches, the new state will be reflected in ESPHome!
 
 ## Configuration
-I The ESPHome `yaml` file must contain the following sections.
+The ESPHome `yaml` file must contain the following sections.
 
 ### esphome
 At the beginning the custom include file needs to be loaded. This provides the interface,
