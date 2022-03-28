@@ -1,3 +1,5 @@
+**This repository is no longer maintained and read-only.**
+
 # ESPHome Vorke HD41 integration
 This project intergrates a VORKE HD41 into ESPHome. It enables full control of all
 over RS232 exposed features which include:
